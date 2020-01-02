@@ -1,0 +1,20 @@
+{
+  "name": "with-jest",
+  "version": "1.0.0",
+  "description": "Sample usage of mersocarln/puppetter Docker image and jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Hemerson Carlin <mersocarlin@mersocarlin.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^24.0.25",
+    "@types/node": "^13.1.2",
+    "@types/puppeteer": "^2.0.0",
+    "jest": "^24.9.0",
+    "puppeteer": "^2.0.0",
+    "ts-jest": "^24.2.0",
+    "typescript": "^3.7.4"
+  }
+}
